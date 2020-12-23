@@ -1,0 +1,2 @@
+# Data-Science-Project
+Critical application of data science techniques to discover information in two distinct problems. Students are asked to explore the datasets and, in accordance with their findings, adequately select and learn models for the available data, as well as assess and relate those models. Additionally, students should be able to criticize the results achieved, hypothesize causes for the limited performance of the learned models, and identify opportunities to improve the mining process.
